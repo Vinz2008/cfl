@@ -1,6 +1,6 @@
 import cfl
 while True:
-    text = input("cfl >")
+    text = input("cfl > ")
     if text == "exit":
         break
     

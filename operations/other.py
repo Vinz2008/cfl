@@ -10,7 +10,6 @@ def operations(characters, result):
             a = len(characters) - pos + 1
             
             while a <= len(characters):
-                
                 nb2 = nb2 + str(characters[a - 1])
                 a+=1
             nb1 = int(nb1)

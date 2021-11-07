@@ -14,3 +14,8 @@ If you want to add an operation, you need to :
   <li>Add an if for the character which will be used for your operation in the function operations and in the for loop Ex: if i == "*"</li>
   
 </ol>
+
+## Limitations
+For now, you can have only one operation to do each time like an addition.  
+1 + 1 * 2 ❌
+1 * 2 ✔️

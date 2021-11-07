@@ -9,7 +9,8 @@ CFL is a mathematical interpreter that can interpret calculations like additions
 If you want to add an operation, you need to :
 <ol>
   <li>Add a python file that you name like you want in operation/files</li>
-  <li>Put a function for the operation in this file with two numbers that are in this function and wich return the total of the operation</li>
+  <li>Put a function for the operation in this file with two numbers that are in this function and wich return the total of the operation Ex: def mult(nb1,nb2)</li>
   <li>Run the fusion.sh bash script</li>
+  <li>Add an if for the character which will be used for your operation in the function operations and in the for loop</li>
   
 </ol>

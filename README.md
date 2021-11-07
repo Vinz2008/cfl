@@ -7,3 +7,6 @@ CFL is a mathematical interpreter that can interpret calculations like additions
 ## Developping
 ### Adding operations 
 If you want to add an operation, you need to :
+<ol>
+  <li>Add a python file that you name like you want in operation/files</li>
+</ol>

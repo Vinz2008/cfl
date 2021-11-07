@@ -17,5 +17,5 @@ If you want to add an operation, you need to :
 
 ## Limitations
 For now, you can have only one operation to do each time like an addition.  
-1 + 1 * 2 ❌
+1 + 1 * 2 ❌  
 1 * 2 ✔️

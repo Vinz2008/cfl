@@ -10,3 +10,7 @@ def minus(nb1, nb2):
 def mult(nb1, nb2):
     result = nb1 * nb2
     return result
+
+def square(nb1):
+    result = nb1 * nb1
+    return result

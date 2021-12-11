@@ -19,28 +19,6 @@ def calc(text):
                 characters.append(i)
                 current_char += 1
     for i in characters:
-        if i == "+":
-            pos = characters.index(i)
-            nb1 = ''
-            nb2 = ''
-            for f in range(pos):
-                nb1 = nb1 + str(characters[f])
-            a = len(characters) - pos
-            while a <= len(characters):
-                nb2 = nb2 + str(characters[a - 1])
-                a+=1
-            nb1 = int(nb1)
-            nb2 = int(nb2)
-
-            #pos_nb1 = pos - 1
-            #pos_nb2 = pos + 1
-            #nb1 = characters[pos_nb1]
-            #nb2 = characters[pos_nb2]
-            result = main.add(nb1, nb2)
-            a -= 1
-        else:
-            a += 1
-    if a == len(characters):
         result = other.operations(characters,result)
     
     return result

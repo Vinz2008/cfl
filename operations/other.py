@@ -81,5 +81,20 @@ def operations(characters, result):
                                 a+=1
                             nb1 = int(nb1)
                             result = main.square(nb1)
+        if i == "f":
+            pos = characters.index(i)
+            if characters[pos+1] == "i":
+                if characters[pos+2] == "b":
+                    if characters[pos+3] == "o":
+                        if characters[pos+4] == "(":
+                            pos2 = pos + 5
+                            a = pos2 + 1
+                            while a <= len(characters):
+                                if characters[a - 1] == ")":
+                                    break
+                                nb1 = nb1 + str(c<haracters[a - 1])
+                                a+=1
+                            nb1 = int(nb1)
+                            result = main.fibonacci(nb1)
     return result
 

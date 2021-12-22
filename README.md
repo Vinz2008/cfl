@@ -1,7 +1,7 @@
 # CFL
 ![Size of the repo](https://img.shields.io/github/repo-size/Vinz2008/cfl)
 [![Number of commits in a year](https://img.shields.io/github/commit-activity/y/Vinz2008/cfl)](https://github.com/Vinz2008/cfl/commits/main)
-[![Testing in github actions](https://img.shields.io/github/workflow/status/Vinz2008/cfl/Cfl%20tests)(https://github.com/Vinz2008/cfl/actions/workflows/tests.yml)
+[![Testing in github actions](https://img.shields.io/github/workflow/status/Vinz2008/cfl/Cfl%20tests)](https://github.com/Vinz2008/cfl/actions/workflows/tests.yml)
 
 ## Meaning of CFL
 CFL mean calculation Function Language  

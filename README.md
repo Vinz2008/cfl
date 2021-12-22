@@ -1,4 +1,6 @@
 # CFL
+[![Size of the repo](https://img.shields.io/github/repo-size/Vinz2008/cfl)]
+
 ## Meaning of CFL
 CFL mean calculation Function Language  
 (It is more an interpreter but I think that CFL is a better name than CFI)

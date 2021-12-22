@@ -1,5 +1,5 @@
 # CFL
-[![Size of the repo](https://img.shields.io/github/repo-size/Vinz2008/cfl)]
+![Size of the repo](https://img.shields.io/github/repo-size/Vinz2008/cfl)
 
 ## Meaning of CFL
 CFL mean calculation Function Language  

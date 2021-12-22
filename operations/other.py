@@ -47,8 +47,8 @@ def operations(characters, result):
             while a <= len(characters):
                 nb2 = nb2 + str(characters[a - 1])
                 a+=1
-            nb1 = int(nb1)
-            nb2 = int(nb2)
+            nb1 = int(nb1.replace("/", ""))
+            nb2 = int(nb2.replace("/", ""))
             result = main.div(nb1, nb2)
         if i == "-":
             pos = characters.index(i)
